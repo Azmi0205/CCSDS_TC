@@ -1,0 +1,7 @@
+Running: xsim.dir/segmentation_and_frame_generator_tb_behav/xsimk.exe -simmode gui -wdb segmentation_and_frame_generator_tb_behav.wdb -simrunnum 0 -socket 58410
+Design successfully loaded
+Design Loading Memory Usage: 11124 KB (Peak: 11124 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11996 KB (Peak: 11996 KB)
+Simulation CPU Usage: 62 ms

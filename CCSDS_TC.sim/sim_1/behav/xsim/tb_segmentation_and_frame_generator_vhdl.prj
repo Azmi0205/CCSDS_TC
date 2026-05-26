@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CCSDS_TC.srcs/common/ccsds_types_pkg.vhd" \
+"../../../../CCSDS_TC.srcs/ground/seg_frame_gen/tc_frame_pkg.vhd" \
+"../../../../CCSDS_TC.srcs/ground/seg_frame_gen/seg_frame_gen.vhd" \
+"../../../ground/seg_frame_gen_tb.vhd" \
+
+# Do not sort compile order
+nosort
