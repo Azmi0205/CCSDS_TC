@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation finished
+Time: 355 ns  Iteration: 0  Process: /tb_Receiver_and_Packet_Extractor/stim_proc  File: C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/space/tb_Receiver_and_Packet_Extractor.vhd
+$finish called at time : 355 ns : File "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/space/tb_Receiver_and_Packet_Extractor.vhd" Line 224

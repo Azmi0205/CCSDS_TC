@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_Receiver_and_Packet_Extractor_behav" "xil_defaultlib.tb_Receiver_and_Packet_Extractor" -log "elaborate.log" 

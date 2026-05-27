@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../CCSDS_TC.srcs/common/ccsds_types_pkg.vhd" \
+"../../../../CCSDS_TC.srcs/space/Receiver_and_Packet_Extractor/tc_extractor_pkg.vhd" \
+"../../../../CCSDS_TC.srcs/space/Receiver_and_Packet_Extractor/Receiver_and_Packet_Extractor.vhd" \
+"../../../space/tb_Receiver_and_Packet_Extractor.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_Receiver_and_Packet_Extractor_behav/xsimk.exe -simmode gui -wdb tb_Receiver_and_Packet_Extractor_behav.wdb -simrunnum 0 -socket 62013
+Design successfully loaded
+Design Loading Memory Usage: 11204 KB (Peak: 11204 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12020 KB (Peak: 12020 KB)
+Simulation CPU Usage: 61 ms

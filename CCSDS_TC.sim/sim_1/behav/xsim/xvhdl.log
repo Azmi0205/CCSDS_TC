@@ -1,6 +1,4 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/common/ccsds_types_pkg.vhd" into library xil_defaultlib
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen/tc_frame_pkg.vhd" into library xil_defaultlib
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen/seg_frame_gen.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'segmentation_and_frame_generator'
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/seg_frame_gen_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'tb_segmentation_and_frame_generator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/space/Receiver_and_Packet_Extractor/Receiver_and_Packet_Extractor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Receiver_and_Packet_Extractor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/space/tb_Receiver_and_Packet_Extractor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_Receiver_and_Packet_Extractor'

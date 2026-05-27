@@ -1,7 +1,7 @@
 Vivado Simulator v2025.1.0
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
-Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_segmentation_and_frame_generator_behav xil_defaultlib.tb_segmentation_and_frame_generator -log elaborate.log 
+Running: C:/Xilinx/2025.1/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_Receiver_and_Packet_Extractor_behav xil_defaultlib.tb_Receiver_and_Packet_Extractor -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
@@ -13,7 +13,7 @@ Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
 Compiling package xil_defaultlib.ccsds_types_pkg
-Compiling package xil_defaultlib.tc_frame_pkg
-Compiling architecture rtl of entity xil_defaultlib.segmentation_and_frame_generator [\segmentation_and_frame_generato...]
-Compiling architecture sim of entity xil_defaultlib.tb_segmentation_and_frame_genera...
-Built simulation snapshot tb_segmentation_and_frame_generator_behav
+Compiling package xil_defaultlib.tc_extract_pkg
+Compiling architecture behavioral of entity xil_defaultlib.Receiver_and_Packet_Extractor [receiver_and_packet_extractor_de...]
+Compiling architecture sim of entity xil_defaultlib.tb_receiver_and_packet_extractor
+Built simulation snapshot tb_Receiver_and_Packet_Extractor_behav

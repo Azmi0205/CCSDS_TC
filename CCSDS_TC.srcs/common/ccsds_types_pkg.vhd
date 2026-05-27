@@ -1,23 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 19.05.2026 12:10:41
--- Design Name: 
--- Module Name: ccsds_types_pkg - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Revision 0.02 - Added TC Segment Header support (sequence flags, MAP ID)
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
