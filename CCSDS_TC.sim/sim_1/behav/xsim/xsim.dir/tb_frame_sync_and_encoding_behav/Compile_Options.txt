@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_frame_sync_and_encoding_behav" "xil_defaultlib.tb_frame_sync_and_encoding" -log "elaborate.log" 

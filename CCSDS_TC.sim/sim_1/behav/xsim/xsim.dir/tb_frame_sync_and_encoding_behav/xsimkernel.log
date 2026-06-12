@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_frame_sync_and_encoding_behav/xsimk.exe -simmode gui -wdb tb_frame_sync_and_encoding_behav.wdb -simrunnum 0 -socket 53039
+Design successfully loaded
+Design Loading Memory Usage: 11100 KB (Peak: 11100 KB)
+Design Loading CPU Usage: 77 ms
+Simulation completed
+Simulation Memory Usage: 19800 KB (Peak: 19800 KB)
+Simulation CPU Usage: 343 ms

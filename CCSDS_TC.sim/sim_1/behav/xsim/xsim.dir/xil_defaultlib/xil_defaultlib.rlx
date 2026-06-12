@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_frame_sync_and_encoding.vhd,1780377586,vhdl,,,,tb_frame_sync_and_encoding,,,,,,,,
+C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_seg_frame_gen.vhd,1779834449,vhdl,,,,tb_segmentation_and_frame_generator,,,,,,,,
+C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/common/common_pkg.vhd,1781300970,vhdl,C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_seg_frame_gen.vhd;C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/ground_pkg.vhd;C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen.vhd,,,ccsds_types_pkg,,,,,,,,
+C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/ground_pkg.vhd,1781300970,vhdl,C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_seg_frame_gen.vhd;C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen.vhd,,,tc_frame_pkg,,,,,,,,
+C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen.vhd,1781300970,vhdl,C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_seg_frame_gen.vhd,,,segmentation_and_frame_generator,,,,,,,,

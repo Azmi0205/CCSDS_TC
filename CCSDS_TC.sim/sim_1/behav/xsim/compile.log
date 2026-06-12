@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/common/common_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/ground_pkg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.srcs/ground/seg_frame_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'segmentation_and_frame_generator'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/azmib/Desktop/SWHW_Projekt/VivadoProject/CCSDS_TC/CCSDS_TC.sim/ground/tb_seg_frame_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_segmentation_and_frame_generator'
